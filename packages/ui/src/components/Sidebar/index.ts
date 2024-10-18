@@ -12,3 +12,5 @@ export { SidebarItems } from "./SidebarItems";
 export type { FlowbiteSidebarItemsTheme, SidebarItemsProps } from "./SidebarItems";
 export { SidebarLogo } from "./SidebarLogo";
 export type { FlowbiteSidebarLogoTheme, SidebarLogoProps } from "./SidebarLogo";
+export { SidebarContext, useSidebarContext } from "./SidebarContext";
+export {SidebarItemContext, useSidebarItemContext} from "./SidebarItemContext";
